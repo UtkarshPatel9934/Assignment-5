@@ -1,2 +1,2 @@
-# Harshil1502/Harshilkumar_Patel_WEB303Assignments
+Assignment 5
  Javascript Assignments(jQuery & AJAX)
